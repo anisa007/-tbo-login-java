@@ -24,3 +24,7 @@ Dalam project ini menerapkan regex untuk memvalidasi data yang dimasukkan oleh p
 7. Tampilan pengguna saat merubah password berhasil
 ![Screenshot (921)](https://user-images.githubusercontent.com/75289528/204465769-6163a6aa-8549-463a-abb7-a9995a7be518.png)
 
+8. Tampilan database
+![Screenshot (7)](https://user-images.githubusercontent.com/75289528/204469523-f51af33e-cde8-4879-917c-ab5f9093a02e.png)
+
+
