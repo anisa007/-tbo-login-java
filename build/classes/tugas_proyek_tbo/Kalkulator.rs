@@ -1,0 +1,17 @@
+Kalkulator$2
+Kalkulator$14
+Kalkulator$3
+Kalkulator$13
+Kalkulator$4
+Kalkulator$16
+Kalkulator$5
+Kalkulator$15
+Kalkulator$6
+Kalkulator$10
+Kalkulator$7
+Kalkulator$8
+Kalkulator$12
+Kalkulator$9
+Kalkulator$11
+Kalkulator
+Kalkulator$1
