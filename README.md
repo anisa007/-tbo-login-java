@@ -1,7 +1,7 @@
 Proyek ini adalah salah satu proyek dari mata kuliah Teori Bahasa dan Otomata pada saat saya semester 3.
 Dalam proyek ini memiliki halaman Sign in, halaman sign up, halaman login success, halaman reset password dan recommendation username. 
 
-Dalam project ini menerapkan regex untuk memvalidasi data yang dimasukkan oleh pengguna.
+Dalam project ini menerapkan regular experssion (regex) untuk memvalidasi data yang dimasukkan oleh pengguna.
 
 1. Tampilan Sign in
 ![Screenshot (915)](https://user-images.githubusercontent.com/75289528/204465681-d1fd0051-0db1-4db4-9663-ea67209965f5.png)
